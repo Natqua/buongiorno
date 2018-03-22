@@ -1,5 +1,4 @@
 # buongiorno
 To jest fajne pierwsze repo ktore zrobilam sobie na TIPN.Ha!
 
-# Nagłówek
-To jest akapit tekstu **Ten tekst jest pogrubiony** *Ten teskt jest kursywą***Ten tekst jest pogrubiony** *Ten teskt jest kursywą***Ten tekst jest pogrubiony** *Ten teskt jest kursywą***Ten tekst jest pogrubiony** *Ten teskt jest kursywą***Ten tekst jest pogrubiony** *Ten teskt jest kursywą***Ten tekst jest pogrubiony** *Ten teskt jest kursywą***Ten tekst jest pogrubiony** *Ten teskt jest kursywą***Ten tekst jest pogrubiony** *Ten teskt jest kursywą***Ten tekst jest pogrubiony** *Ten teskt jest kursywą***Ten tekst jest pogrubiony** *Ten teskt jest kursywą***Ten tekst jest pogrubiony** *Ten teskt jest kursywą***Ten tekst jest pogrubiony** *Ten teskt jest kursywą***Ten tekst jest pogrubiony** *Ten teskt jest kursywą***Ten tekst jest pogrubiony** *Ten teskt jest kursywą***Ten tekst jest pogrubiony** *Ten teskt jest kursywą***Ten tekst jest pogrubiony** *Ten teskt jest kursywą***Ten tekst jest pogrubiony** *Ten teskt jest kursywą***Ten tekst jest pogrubiony** *Ten teskt jest kursywą*
+
